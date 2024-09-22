@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578246023044",
+    "project_id": "bloodlinkapp-9f18b",
+    "storage_bucket": "bloodlinkapp-9f18b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578246023044:android:806beb9d8a27f1376eefd1",
+        "android_client_info": {
+          "package_name": "com.example.blood_link_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvuMMS41RCPViVjljGsUq5zg6lwHp5E9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
